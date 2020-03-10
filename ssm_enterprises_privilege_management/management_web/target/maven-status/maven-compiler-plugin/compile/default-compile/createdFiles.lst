@@ -1,0 +1,7 @@
+cn\jiang\controller\UserController.class
+cn\jiang\controller\OrderController.class
+cn\jiang\controller\LogController.class
+cn\jiang\controller\LogAop.class
+cn\jiang\controller\RoleController.class
+cn\jiang\controller\ProductController.class
+cn\jiang\controller\PermissionController.class

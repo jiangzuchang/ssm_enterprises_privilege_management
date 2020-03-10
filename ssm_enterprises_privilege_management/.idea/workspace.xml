@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a339703d-0d5c-4883-8d7f-061dae899729" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\local-store\maven_repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal -Dfile.encoding=gb2312" />
+  </component>
+  <component name="ProjectId" id="1WKeBU4TcI5S2WrMhg7kwdAODfD" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/management_service/src/main/java/cn/jiang" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/management_web/src/main/webapp" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39338234" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Program Files\Project in IDEA\ssm_enterprises_privilege_management\management_domain" />
+      <recent name="D:\IdeaProjects\ssm_enterprises_privilege_management\management_web\src\main\webapp" />
+      <recent name="D:\IdeaProjects\ssm_enterprises_privilege_management\management_web\src\main\webapp\pages" />
+      <recent name="D:\IdeaProjects\ssm_enterprises_privilege_management\management_dao\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\ssm_enterprises_privilege_management\management_web\src\main\webapp" />
+      <recent name="D:\IdeaProjects\ssm_enterprises_privilege_management\management_web\src\main\webapp\pages" />
+      <recent name="D:\IdeaProjects\ssm_enterprises_privilege_management\management_web\src\main\webapp\img" />
+      <recent name="D:\IdeaProjects\ssm_enterprises_privilege_management\management_web\src\main\webapp\plugins" />
+      <recent name="D:\IdeaProjects\ssm_enterprises_privilege_management\management_web\src\main\webapp\css" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.jiang.dao" />
+      <recent name="cn.jiang.service" />
+      <recent name="cn.jiang.domain" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.[clean tomcat7:run]">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.jiang.controller.Test" />
+      <module name="management_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.jiang.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[clean tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="1.8" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="-DarchetypeCatalog=internal -Dfile.encoding=utf-8" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="showMultipleContextsPanel" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a339703d-0d5c-4883-8d7f-061dae899729" name="Default Changelist" comment="" />
+      <created>1578902577836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578902577836</updated>
+      <workItem from="1578902582465" duration="16876000" />
+      <workItem from="1578964403112" duration="24200000" />
+      <workItem from="1579001665396" duration="6076000" />
+      <workItem from="1579055495696" duration="18975000" />
+      <workItem from="1579142221152" duration="34557000" />
+      <workItem from="1579226938969" duration="20600000" />
+      <workItem from="1579435811720" duration="3172000" />
+      <workItem from="1580519632932" duration="624000" />
+      <workItem from="1581085943802" duration="671000" />
+      <workItem from="1581087282574" duration="462000" />
+      <workItem from="1581127891899" duration="1235000" />
+      <workItem from="1581486886772" duration="1729000" />
+      <workItem from="1581571285060" duration="675000" />
+      <workItem from="1581571984674" duration="9982000" />
+      <workItem from="1582169330550" duration="698000" />
+      <workItem from="1582933807579" duration="1310000" />
+      <workItem from="1583229061363" duration="3606000" />
+      <workItem from="1583306800200" duration="5355000" />
+      <workItem from="1583636308592" duration="598000" />
+      <workItem from="1583715164540" duration="30639000" />
+      <workItem from="1583758346513" duration="2203000" />
+      <workItem from="1583806847347" duration="11826000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="182" y="30" key="#Project_Structure" timestamp="1581574305101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="182" y="30" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1581574305101" />
+    <state x="623" y="189" key="FileChooserDialogImpl" timestamp="1582933874266">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="189" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582933874266" />
+    <state width="1852" height="347" key="GridCell.Tab.0.bottom" timestamp="1582935345847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1852" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582935345847" />
+    <state width="1852" height="347" key="GridCell.Tab.0.center" timestamp="1582935345846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1852" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582935345846" />
+    <state width="1852" height="347" key="GridCell.Tab.0.left" timestamp="1582935345846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1852" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582935345846" />
+    <state width="1852" height="347" key="GridCell.Tab.0.right" timestamp="1582935345846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1852" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582935345846" />
+    <state x="214" y="0" key="SettingsEditor" timestamp="1581572364165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="214" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581572364165" />
+    <state x="237" y="57" key="spring file set editor" timestamp="1581572483711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="237" y="57" key="spring file set editor/0.0.1920.1040@0.0.1920.1040" timestamp="1581572483711" />
+  </component>
+</project>
